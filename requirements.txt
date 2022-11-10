@@ -2,4 +2,5 @@ statsforecast
 fugue
 boto3
 seaborn
+datasetsforecast
 hierarchicalforecast
