@@ -4,4 +4,4 @@ boto3
 seaborn
 datasetsforecast
 hierarchicalforecast
-dask
+dask[distributed]
