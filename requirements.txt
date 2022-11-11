@@ -6,3 +6,4 @@ datasetsforecast
 hierarchicalforecast
 dask[distributed]
 coiled
+scikit-learn
