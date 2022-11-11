@@ -2,11 +2,7 @@ statsforecast
 fugue
 boto3
 seaborn
-<<<<<<< Updated upstream
 datasetsforecast
 hierarchicalforecast
 dask[distributed]
-=======
 coiled
-hierarchicalforecast
->>>>>>> Stashed changes
