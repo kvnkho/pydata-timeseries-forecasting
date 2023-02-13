@@ -14,7 +14,7 @@ The last part will be about distributing the model training on a Dask cluster ma
 
 If you want me to give this tutorial at some Meetup or event, feel free to reach out! It took a lot of work to compile this tutorial so I'm more than happy to speak about it anywhere (even in company knowledge sharing sessions).
 
-[Fugue Slack](slack.fugue.ai)
+[Fugue Slack](http://slack.fugue.ai/)
 
 [Nixtla Slack](https://join.slack.com/t/nixtlaworkspace/shared_invite/zt-135dssye9-fWTzMpv2WBthq8NK0Yvu6A)
 
