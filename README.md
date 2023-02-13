@@ -12,7 +12,7 @@ The last part will be about distributing the model training on a Dask cluster ma
 
 ## Contact Us
 
-If you want me to give this tutorial, just feel free to reach out! It took a lot of work to compile this tutorial so I'm more than happy to speak about it anywhere (even in company knowledge sharing sessions).
+If you want me to give this tutorial at some Meetup or event, feel free to reach out! It took a lot of work to compile this tutorial so I'm more than happy to speak about it anywhere (even in company knowledge sharing sessions).
 
 [Fugue Slack](slack.fugue.ai)
 
