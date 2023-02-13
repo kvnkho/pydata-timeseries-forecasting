@@ -1,5 +1,5 @@
 statsforecast
-fugue
+fugue>=0.8.0
 boto3
 seaborn
 datasetsforecast
